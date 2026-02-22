@@ -1,4 +1,4 @@
-# BackHer 🌸
+# BackHer 🩵
 **Financial Intelligence for Female Founders.**
 
 BackHer is an all-in-one financial hub that turns messy transaction data into clear, supportive strategic insights. Designed for micro-business owners, it helps bridge the gap between daily operations and long-term financial health.
